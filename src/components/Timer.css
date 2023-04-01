@@ -1,0 +1,17 @@
+.timer {
+    border: 1px dashed #646cff;
+    border-radius: 20px;
+    min-width: 16rem;
+    height: 15rem;
+}
+
+.timer_title {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.timer_time {
+    font-size: 3rem;
+    margin: 1rem;
+    display: block;
+}

@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.program-list {
+  list-style: none;
+  text-align: start;
+}
+
+.program-list li {
+  margin-left: 5rem;
+}
